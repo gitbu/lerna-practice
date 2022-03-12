@@ -20,6 +20,7 @@
     "registry": "https://registry.npm.taobao.org/"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+    "test": "echo \"Error: run tests1 from root\" && exit 1"
+  },
+  "gitHead": "befbcce2f9a2548b343154258a3ba3007217751b"
 }
